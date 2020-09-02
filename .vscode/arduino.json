@@ -1,0 +1,8 @@
+{
+    "port": "COM3",
+    "board": "attiny:avr:ATtinyX5",
+    "configuration": "cpu=attiny85,clock=internal1",
+    "programmer": "AVRISP mkII",
+    "sketch": "interrupt.ino",
+    "output": "./build"
+}
